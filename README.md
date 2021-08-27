@@ -1,3 +1,1 @@
-# todo
-
-saikat editing todo app!
+# todos
