@@ -1,3 +1,3 @@
 # todo
 
-saikat editing todo app!
+satyajit editing todo app!
